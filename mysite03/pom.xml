@@ -184,7 +184,7 @@
 					<url>http://192.168.1.25:8080/manager/text</url>
 					<path>/mysite03</path>
 					<username>admin</username>
-					<password>manager</password>
+					<password>spqldnjrtm2021</password>
 				</configuration>
 			</plugin>
 		</plugins>
